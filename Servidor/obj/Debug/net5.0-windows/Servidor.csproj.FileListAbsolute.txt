@@ -1,0 +1,17 @@
+C:\dev\WebSocket\Servidor\bin\Debug\net5.0-windows\Servidor.exe
+C:\dev\WebSocket\Servidor\bin\Debug\net5.0-windows\Servidor.deps.json
+C:\dev\WebSocket\Servidor\bin\Debug\net5.0-windows\Servidor.runtimeconfig.json
+C:\dev\WebSocket\Servidor\bin\Debug\net5.0-windows\Servidor.runtimeconfig.dev.json
+C:\dev\WebSocket\Servidor\bin\Debug\net5.0-windows\Servidor.dll
+C:\dev\WebSocket\Servidor\bin\Debug\net5.0-windows\ref\Servidor.dll
+C:\dev\WebSocket\Servidor\bin\Debug\net5.0-windows\Servidor.pdb
+C:\dev\WebSocket\Servidor\obj\Debug\net5.0-windows\Servidor.Servidor.resources
+C:\dev\WebSocket\Servidor\obj\Debug\net5.0-windows\Servidor.csproj.GenerateResource.cache
+C:\dev\WebSocket\Servidor\obj\Debug\net5.0-windows\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\WebSocket\Servidor\obj\Debug\net5.0-windows\Servidor.AssemblyInfoInputs.cache
+C:\dev\WebSocket\Servidor\obj\Debug\net5.0-windows\Servidor.AssemblyInfo.cs
+C:\dev\WebSocket\Servidor\obj\Debug\net5.0-windows\Servidor.csproj.CoreCompileInputs.cache
+C:\dev\WebSocket\Servidor\obj\Debug\net5.0-windows\Servidor.dll
+C:\dev\WebSocket\Servidor\obj\Debug\net5.0-windows\ref\Servidor.dll
+C:\dev\WebSocket\Servidor\obj\Debug\net5.0-windows\Servidor.pdb
+C:\dev\WebSocket\Servidor\obj\Debug\net5.0-windows\Servidor.genruntimeconfig.cache
